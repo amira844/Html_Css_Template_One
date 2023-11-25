@@ -427,6 +427,10 @@ body {
     max-width: 100%;
 
 }
+.about img {
+    width: 420px;
+    height: 600px;
+}
 
 .about .container .about-content .image::before {
     content: "";
