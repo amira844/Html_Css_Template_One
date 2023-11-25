@@ -434,6 +434,7 @@ body {
 @media (max-width: 767px) {
     .about img {
         width: 200px;
+        height: 330px;
     }
 }
 
