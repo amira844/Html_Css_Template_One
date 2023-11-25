@@ -431,6 +431,11 @@ body {
     width: 420px;
     height: 600px;
 }
+@media (max-width: 767px) {
+    .about img {
+        width: 200px;
+    }
+}
 
 .about .container .about-content .image::before {
     content: "";
